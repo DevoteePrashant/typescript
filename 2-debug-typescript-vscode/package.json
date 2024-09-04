@@ -1,0 +1,12 @@
+{
+  "name": "2-debug-typescript-vscode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calculate.js",
+  "scripts": {
+    "test": "calculate.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
